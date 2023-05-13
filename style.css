@@ -106,7 +106,7 @@ footer {
     text-align: center;
     vertical-align: middle;
 }
-.footer:hover {
+footer:hover{
     cursor: pointer;
     border: 1px solid red;
     outline: 1px inset salmon;
